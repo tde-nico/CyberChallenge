@@ -1,0 +1,37 @@
+5 9 27
+1 XAOxYltzzK 700
+2 zqEIaBLKxc 500
+3 UTqhbYrcAS 400
+4 TxWdMMVIYg 750
+5 eSBltUSjkQ 450
+6 UkdvJdcVqh 150
+7 jZSayzmkfZ 600
+8 ehGPOPPoLc 550
+9 zyusHYnzmL 150
+5 9 zyusHYnzmL 167
+2 5 eSBltUSjkQ 391
+4 8 ehGPOPPoLc 178
+2 7 jZSayzmkfZ 96
+5 8 UoGsnzOyPM 447
+3 2 zqEIaBLKxc 237
+2 6 UkdvJdcVqh 119
+2 9 lxSvfUVeYD 456
+4 1 XAOxYltzzK 142
+4 2 iLKUXkbEHS 446
+2 4 TxWdMMVIYg 106
+3 7 IXptunTAtp 57
+1 8 ehGPOPPoLc 15
+5 8 ehGPOPPoLc 138
+3 4 TxWdMMVIYg 82
+1 7 jZSayzmkfZ 205
+2 5 eSBltUSjkQ 490
+4 7 xCoXXLpwbP 466
+2 6 mbgEizRTXG 123
+5 8 ehGPOPPoLc 230
+4 1 XAOxYltzzK 435
+4 1 XAOxYltzzK 305
+2 2 zqEIaBLKxc 171
+5 3 UTqhbYrcAS 457
+4 2 uQgmTQCcDC 187
+4 7 jZSayzmkfZ 133
+1 8 ehGPOPPoLc 27
